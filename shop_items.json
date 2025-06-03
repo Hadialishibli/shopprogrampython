@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Milk",
+        "description": "Fresh dairy milk, 1 liter",
+        "price": 1.75,
+        "quantity": 50
+    },
+    {
+        "name": "Bread",
+        "description": "Whole wheat loaf, freshly baked",
+        "price": 2.50,
+        "quantity": 30
+    },
+    {
+        "name": "Eggs",
+        "description": "Large brown eggs, dozen",
+        "price": 3.20,
+        "quantity": 40
+    },
+    {
+        "name": "Apples",
+        "description": "Crisp red apples, per kg",
+        "price": 2.99,
+        "quantity": 75
+    },
+    {
+        "name": "Bananas",
+        "description": "Organic bananas, per kg",
+        "price": 1.49,
+        "quantity": 60
+    },
+    {
+        "name": "Chicken Breast",
+        "description": "Boneless, skinless chicken breast, per kg",
+        "price": 8.50,
+        "quantity": 25
+    },
+    {
+        "name": "Rice",
+        "description": "Long-grain white rice, 1 kg bag",
+        "price": 2.00,
+        "quantity": 100
+    },
+    {
+        "name": "Pasta",
+        "description": "Spaghetti pasta, 500g pack",
+        "price": 1.20,
+        "quantity": 80
+    },
+    {
+        "name": "Cheese",
+        "description": "Cheddar cheese block, 200g",
+        "price": 4.50,
+        "quantity": 35
+    },
+    {
+        "name": "Yogurt",
+        "description": "Plain Greek yogurt, 500g tub",
+        "price": 2.80,
+        "quantity": 45
+    },
+    {
+        "name": "Coffee",
+        "description": "Ground coffee, medium roast, 250g bag",
+        "price": 6.99,
+        "quantity": 20
+    },
+    {
+        "name": "Tea Bags",
+        "description": "Black tea bags, box of 40",
+        "price": 3.00,
+        "quantity": 55
+    },
+    {
+        "name": "Sugar",
+        "description": "Granulated white sugar, 1 kg bag",
+        "price": 1.80,
+        "quantity": 70
+    },
+    {
+        "name": "Salt",
+        "description": "Table salt, 750g container",
+        "price": 0.90,
+        "quantity": 90
+    },
+    {
+        "name": "Olive Oil",
+        "description": "Extra virgin olive oil, 500ml bottle",
+        "price": 7.50,
+        "quantity": 15
+    },
+    {
+        "name": "Tomatoes",
+        "description": "Fresh ripe tomatoes, per kg",
+        "price": 2.30,
+        "quantity": 65
+    },
+    {
+        "name": "Potatoes",
+        "description": "Russet potatoes, 2 kg bag",
+        "price": 3.50,
+        "quantity": 50
+    },
+    {
+        "name": "Orange Juice",
+        "description": "Freshly squeezed orange juice, 1 liter carton",
+        "price": 3.80,
+        "quantity": 30
+    },
+    {
+        "name": "Dish Soap",
+        "description": "Lemon-scented dishwashing liquid, 750ml",
+        "price": 2.70,
+        "quantity": 40
+    },
+    {
+        "name": "Toilet Paper",
+        "description": "Recycled toilet paper, 4 rolls pack",
+        "price": 4.20,
+        "quantity": 25
+    }
+]
